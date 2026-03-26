@@ -25,7 +25,7 @@
 <br/><br/>
 
 <!-- 🔥 GOKU — HERO ENTRY — FIRST & BIG -->
-<img src="1.gif" width="240" alt="Goku Ultra Instinct" />
+<img src="pic/1.gif" width="240" alt="Goku Ultra Instinct" />
 
 <br/>
 
@@ -75,9 +75,9 @@ class Zero:
 
 <div align="center">
 <!-- Naruto + Kid Goku — mid-page grind energy -->
-<img src="2.gif" width="120" alt="Naruto" />
+<img src="pic/2.gif" width="120" alt="Naruto" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="5.gif" width="145" alt="Kid Goku on Nimbus" />
+<img src="pic/5.gif" width="145" alt="Kid Goku on Nimbus" />
 </div>
 
 ---
@@ -142,12 +142,12 @@ while (zero.alive) {
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="3.gif" width="130" /><br/><br/>
+      <img src="pic/3.gif" width="130" /><br/><br/>
       <b>⚡ Pikachu</b><br/>
       <sub>Small. Electric. Unstoppable.<br/>Mood = me on a good day.</sub>
     </td>
     <td align="center" width="200">
-      <img src="4.gif" width="95" /><br/><br/>
+      <img src="pic/4.gif" width="95" /><br/><br/>
       <b>🏴‍☠️ Luffy</b><br/>
       <sub>No plan. Just pure will.<br/>Becomes King anyway. 👑</sub>
     </td>
