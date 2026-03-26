@@ -77,7 +77,7 @@ class Zero:
 <!-- Naruto + Kid Goku — mid-page grind energy -->
 <img src="pic/2.gif" width="120" alt="Naruto" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="pic/5.gif" width="145" alt="Kid Goku on Nimbus" />
+<img src="pic/3.gif" width="145" alt="Kid Goku on Nimbus" />
 </div>
 
 ---
@@ -142,7 +142,7 @@ while (zero.alive) {
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="pic/3.gif" width="130" /><br/><br/>
+      <img src="pic/5.gif" width="130" /><br/><br/>
       <b>⚡ Pikachu</b><br/>
       <sub>Small. Electric. Unstoppable.<br/>Mood = me on a good day.</sub>
     </td>
